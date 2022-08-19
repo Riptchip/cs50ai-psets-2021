@@ -1,0 +1,10 @@
+NUMBERS_OF_CONVOLUTIONAL_N_POOLING_LAYERS,0,1,2,3
+NUMBERS_OF_FILTERS,16,32,64
+KERNEL_SIZES,3,4,5
+POOL_SIZES,2,3,4
+ACTIVATION_FUNCTIONS,elu,expoential,gelu,hard_sigmoid,linear,relu,selu,sigmoid,softplus,softsign,swish,tanh
+LOSSES,kld,mae,mape,mse,msle,binery_crossentropy,categorical_crossentropy,categorical_hinge,cosine_similarity,hinge,huber,log_cosh,poisson,squared_hinge,sparse_categorical_crossentropy
+OPMIZERS,adadelta,adagrad,adam,adamax,ftrl,nadam,rmsprop
+NUMBERS_OF_LAYERS(WITH OUTPUT LAYER),2,3,4,5
+SIZES_OF_LAYERS,32,64,128
+DROPOUT_VALUES,0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9
